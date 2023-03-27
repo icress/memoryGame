@@ -1,0 +1,9 @@
+h1 {
+    color: red;
+}
+
+.tile {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
